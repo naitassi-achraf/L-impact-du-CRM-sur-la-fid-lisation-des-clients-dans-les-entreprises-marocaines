@@ -2,11 +2,11 @@
 
 **Type de document :** Compte rendu de recherche  
 **Niveau :** Master (Bac+4/5)  
-**Auteur :** [NOM PRÉNOM]  
-**Encadrant :** [NOM DE L'ENCADRANT]  
-**Filière :** [À COMPLÉTER]  
-**Établissement :** [À COMPLÉTER]  
-**Année universitaire :** 2024–2025  
+**Auteur :** [NAITASSI ACHTRAF]  
+**Encadrant :** [M.LARHLIMI]  
+**Filière :** [MIDC]  
+**Établissement :** [ENCG SETTAT]  
+**Année universitaire :2026-2027 
 
 ---
 
